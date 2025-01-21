@@ -1,6 +1,4 @@
-
-<div style="background-color: black; padding: 20px; color: white; border-radius: 10px;">
-# Olá, eu sou o Pedro Henrique! 👋
+### Olá, eu sou o Pedro Henrique! 👋
 
 ### Sobre mim:
 - 🎮 Amo **jogos** e tudo relacionado a **HQs**!  
@@ -51,6 +49,5 @@ Atualmente, estou começando na programação e já aprendi um pouco sobre:
 ![Snake animation](https://github.com/pedrohsipriano/pedrohsipriano/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif" alt="HQs" width="400"/>
-</div>
+  <img src="https://i.redd.it/lx1ww2szvj3d1.gif" alt="HQs"/>
 </div>
