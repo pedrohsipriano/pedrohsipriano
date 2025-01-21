@@ -1,7 +1,7 @@
 ### Olá, eu sou o Pedro Henrique! 👋
 
 ### Sobre mim:
-- 🎮 Amo **jogos** e tudo relacionado a **HQs**!  
+- 🎮 Amo **games**, **HQs**, **filmes** e **series**!  
 - 🌍 Moro em **Ceilândia-DF** e tenho **22 anos**.  
 - 💼 Trabalho na **CNDL (Confederação Nacional de Dirigentes Lojistas)**.  
 
