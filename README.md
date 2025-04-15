@@ -46,9 +46,7 @@ Atualmente, estou começando na programação e já aprendi um pouco sobre:
 </div>
 
 ---
-![Snake animation](https://github.com/pedrohsipriano/pedrohsipriano/blob/output/github-contribution-grid-snake.svg)
 
----
 <div align="center">
   <img src="https://i.redd.it/lx1ww2szvj3d1.gif" alt="HQs"/>
 </div>
