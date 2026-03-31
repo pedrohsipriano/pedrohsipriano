@@ -37,14 +37,14 @@ Atualmente, estou começando na programação e já aprendi um pouco sobre:
 
 ---
 
-### 📊 Estatísticas:
-<div>
-  <a href="https://github.com/pedrohsipriano">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsipriano&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohsipriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+### 📊 Estatísticas
 
+<p align="left">
+  <a href="https://github.com/pedrohsipriano">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsipriano&layout=compact&langs_count=7&theme=dracula" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohsipriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
+  </a>
+</p>
 ---
 
 <div align="center">
