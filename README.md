@@ -2,7 +2,7 @@
 ---
 ### Sobre mim:
 - 🎮 Amo **games**, **HQs**, **filmes** e **series**!  
-- 🌍 Moro em **Ceilândia-DF** e tenho **22 anos**.  
+- 🌍 Moro em **Ceilândia-DF** e tenho **23 anos**.  
 - 💼 Trabalho na **CNDL (Confederação Nacional de Dirigentes Lojistas)**.  
 
 ---
