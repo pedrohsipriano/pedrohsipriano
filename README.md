@@ -37,14 +37,17 @@ Atualmente, estou começando na programação e já aprendi um pouco sobre:
 
 ---
 
-### 📊 Estatísticas
+### 📊 Atividades e Conquistas
 
-<p align="left">
-  <a href="https://github.com/pedrohsipriano">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsipriano&layout=compact&langs_count=7&theme=dracula" height="180" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohsipriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohsipriano&theme=dracula&hide_border=true" />
 </p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsipriano&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrohsipriano&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
+</p>
+
 ---
 
 <div align="center">
